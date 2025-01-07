@@ -21,13 +21,27 @@ To develop an interactive dashboard in Power BI that provides a comprehensive ov
 
 ## Process:
 
--Gather relevant data from various sources (e.g., sales records, customer feedback surveys, operational databases). Clean and transform the data to ensure accuracy and consistency.
--Create a data model in Power BI to establish relationships between different data tables and facilitate efficient data analysis.
--Design and develop an interactive dashboard using Power BI's visualization tools.
--Key Performance Indicators (KPIs): Display Total Sales, Avg Sales, No. of Items, and Avg Rating prominently. 
--Prepare charts based on the requirements.
+- Gather relevant data from various sources (e.g., sales records, customer feedback surveys, operational databases). Clean and transform the data to ensure accuracy and consistency.
+- Create a data model in Power BI to establish relationships between different data tables and facilitate efficient data analysis.
+- Design and develop an interactive dashboard using Power BI's visualization tools.
+- Key Performance Indicators (KPIs): Display Total Sales, Avg Sales, No. of Items, and Avg Rating prominently. 
+- Prepare charts based on the requirements.
 
 ## Dashboard
+![Blinkit Sales Image](https://github.com/user-attachments/assets/30b78dc6-2511-4728-9ce1-3184ce7cfd6f)
+
+## Project Insights:
+-	Top 8 items Fruits and Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned, Baking Goods and Health & Hygiene contributes to 80% of Sales.
+-	Outlet Established in year 2018 has a highest revenue amounting to $ 204,522 approximately $ 0.2 Million
+-	Average Rating is 4 ****
+-	Low Fat content items contribute 64.6% of Revenue
+-	Supermarket Type 1 accounts for the highest sales of $787,500 with a total of 5,577 items sold.
+  
+## Final Conclusions:
+-	Stakeholders can use these insights to make informed decisions regarding marketing strategies, operational improvements, and product offerings.
+-	The interactive nature of the dashboard will enable users to explore data dynamically and gain deeper insights into specific areas of interest.
+
+
 
 
 
