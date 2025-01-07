@@ -38,8 +38,10 @@ To develop an interactive dashboard in Power BI that provides a comprehensive ov
 -	Supermarket Type 1 accounts for the highest sales of $787,500 with a total of 5,577 items sold.
   
 ## Final Conclusions:
--	Stakeholders can use these insights to make informed decisions regarding marketing strategies, operational improvements, and product offerings.
--	The interactive nature of the dashboard will enable users to explore data dynamically and gain deeper insights into specific areas of interest.
+This dashboard analysis demonstrates that Grocery Store, Super Market Type 1 and Super Market Type 3  are currently contributing to lower sales for Blinkit. 
+By  Improving customer retention through personalized promotions, Optimizing delivery operations in low-performing zones and Expanding product offerings in high-demand categories, sustainable sales growth can be achieved.
+
+
 
 
 
